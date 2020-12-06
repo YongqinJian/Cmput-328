@@ -56,16 +56,16 @@ There are no formal labs to attend. TAs will post pre-recorded videos to explain
 
 ### Course materials
 
-1. Textbook: There is no assigned textbook for this course. A good reference is http://cs231n.stanford.edu/syllabus.html. The instructor will post relevant course materials in eClass.
+1. Textbook: There is no assigned textbook for this course. **A good reference is http://cs231n.stanford.edu/syllabus.html.** The instructor will post relevant course materials in eClass.
 
 2.Required software and tools: Students will need to bring their own laptops to the class. PyTorch and python-based tools will be used in the Google colaboratory.
 
 ### Assignments and evaluation
 
-1.      Six assignments (Total 60% weight) based on course materials will be given. These individual student assignments will be programming tasks using PyTorch. Two-thirds of the weight for an assignment will be allocated for the accuracy and/or efficiency for the code. The rest one-third weight will be allocated for the documentation of the code where you will explain the logic/algorithm. A sample well-docomented code will be posted.
+1.Six assignments (Total 60% weight) based on course materials will be given. These individual student assignments will be programming tasks using PyTorch. Two-thirds of the weight for an assignment will be allocated for the accuracy and/or efficiency for the code. The rest one-third weight will be allocated for the documentation of the code where you will explain the logic/algorithm. A sample well-docomented code will be posted.
 
 Late policy for assignments: each student will get a total of 4 late days for the whole course that they can spend on the assignments according to their needs. Once these late days are used up, any submission after the due date will not be accepted.
 
-2.      Quizzes (Total 10% weight) will focus on the lecture materials covered. The number of quizzes and dates for the quizzes will be posted soon.
+2.Quizzes (Total 10% weight) will focus on the lecture materials covered. The number of quizzes and dates for the quizzes will be posted soon.
 
-3.      The final exam (Total 30% weight) will emphasize on theoretical aspects, such as gradient descent, back-propagation, and so on. date: December 2, time to be decided. It will be an open book and an open internet course. We may be using Smart Exam Monitor for the final exam.
+3.The final exam (Total 30% weight) will emphasize on theoretical aspects, such as gradient descent, back-propagation, and so on. date: December 2, time to be decided. It will be an open book and an open internet course. We may be using Smart Exam Monitor for the final exam.
