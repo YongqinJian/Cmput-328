@@ -8,14 +8,23 @@ Email Address: nray1@cs.ualberta.ca
 
 ## Useful Links
 http://cs231n.stanford.edu/syllabus.html
+
 [KNN](https://cs231n.github.io/classification/)
+
 [Transfer Learning](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+
 [Implementing BatchNorm](https://towardsdatascience.com/implementing-batch-normalization-in-python-a044b0369567)
+
 [Implementing Dropout](https://xuwd11.github.io/Dropout_Tutorial_in_PyTorch/)
+
 [YOLO Object Detection](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
+
 [Semantic Segmentation](https://www.jeremyjordan.me/semantic-segmentation/)
+
 [GANs](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+
 [Celeba dataset](https://www.kaggle.com/jessicali9530/celeba-dataset)
+
 [Model Compression](https://github.com/NervanaSystems/distiller)
 
 ## Syllabus
