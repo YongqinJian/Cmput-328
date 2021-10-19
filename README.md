@@ -1,4 +1,4 @@
-# Cmput-328 Visual Recognition
+# Cmput-328 Visual Recognition | DeepLearning
 
 
 
